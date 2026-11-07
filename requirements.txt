@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels==0.14.1
+matplotlib
+seaborn
+tqdm
+pillow
+pydicom
+ipython
+jupyterlab
+timm==1.0.24
+# torch==2.4.1  (install the CUDA build matching your driver from https://pytorch.org)
+torch>=2.4
